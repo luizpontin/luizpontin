@@ -1,10 +1,10 @@
-EU MEMO
+luiz
 
--  luizpontin
--  meu email de contato é luiz.pontin@escola.pr.gov.br
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  How to reach me ...
+-  Eu sou o *@Luizpontin*
+-  Para falar comigo: [E-Mail](luiz.pontin@escola.pr.gov.br)
+-  Sou amiguinho do gaiteiro colono
+-  Não te importa, rapaz
+-  Tenho 16 aninhos de vida que to vivo
 
 <!---
 luizpontin/luizpontin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
