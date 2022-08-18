@@ -2,7 +2,7 @@ luiz
 
 -  Eu sou o *@Luizpontin*
 -  Para falar comigo: [E-Mail](luiz.pontin@escola.pr.gov.br)
--  Sou amiguinho do gaiteiro colono
+-  quero aprender a lingua da programaçao
 -  .gosto de jogar no meu tempo livre 
 -  Tenho 16 aninhos de vida que to vivo
 
